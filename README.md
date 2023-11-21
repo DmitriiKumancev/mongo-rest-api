@@ -134,3 +134,9 @@ ____________________________________O/_______
                                     O\
 ⇨ http server started on [::]:3030
 ```
+
+
+Feel free to explore and contribute to this project!
+
+#
+**Author:** [Dmitrii Kumancev](https://github.com/DmitriiKumancev)
